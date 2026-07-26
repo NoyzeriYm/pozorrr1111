@@ -1,4 +1,0 @@
-STREAMING_CHUNK: Listing Python dependencies
-
-aiogram>=3.4.0,<4.0.0
-python-dotenv>=1.0.0
